@@ -2,7 +2,6 @@
 
 - 💻 Backend Developer skilled in **Python**, **Django**, **Flask**, and **SQL**
 - 👀 Passionate about building efficient, scalable backend systems and REST APIs
-- 🌱 Currently learning **Java** and exploring system design concepts
 - 👨‍💻 Hands-on experience with **PostgreSQL**, **MongoDB**, and **Django REST Framework**
 - 📁 Recently completed an internship focused on API development, Excel automation, and data validation
 - 📫 How to reach me ... 
