@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Ritik Sharmahttps://github.com/iRitikSharma/iRitikSharma/blob/main/README.md
-- 👀 I’m interested in SDE Role
-- 🌱 I’m currently learning Java
-  
+# 👋 Hi, I’m Ritik Sharma
+
+- 💻 Backend Developer skilled in **Python**, **Django**, **Flask**, and **SQL**
+- 👀 Passionate about building efficient, scalable backend systems and REST APIs
+- 🌱 Currently learning **Java** and exploring system design concepts
+- 👨‍💻 Hands-on experience with **PostgreSQL**, **MongoDB**, and **Django REST Framework**
+- 📁 Recently completed an internship focused on API development, Excel automation, and data validation
 - 📫 How to reach me ... 
 - My Linkedin : https://www.linkedin.com/in/ritik-sharma-6638791a6
 - MY Gmail : iritiksharma10@gmail.com
