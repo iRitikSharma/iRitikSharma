@@ -6,7 +6,7 @@
 - 📁 Recently completed an internship focused on API development, Excel automation, and data validation
 - 📫 How to reach me ... 
 - My Linkedin : https://www.linkedin.com/in/ritik-sharma-6638791a6
-- MY Gmail : iritiksharma10@gmail.com
+- MY Gmail : rsritiksharma10@gmail.com
 
 
 <!---
