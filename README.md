@@ -1,12 +1,14 @@
 # 💫 About Me
 
-- 💻 **Python Developer & Data Analyst** with hands-on experience in building **REST APIs** and data-driven applications  
-- 🧠 Strong foundation in **Python, Django, Django REST Framework, SQL, and Data Processing**  
-- 📊 Experienced in working with **structured data**, ETL workflows, and data analysis using **Pandas & NumPy**  
-- 🗄️ Hands-on experience with **PostgreSQL, MongoDB**, and query optimization  
-- 🧩 Completed a **Python Developer Internship** focused on backend API development, Excel data processing, automation, and validation  
-- 🤝 Comfortable working in **Agile/Scrum environments** and collaborating through code reviews  
-- 🚀 Motivated to continuously learn, improve skills, and contribute to impactful projects  
+- 💻 Python Developer & Data Analyst with hands-on experience building RESTful APIs, ETL pipelines, and data-driven applications
+- 🧠 Strong foundation in Python, Django, Django REST Framework (DRF), SQL, and backend development
+- 🔄 Designed and implemented ETL workflows for Excel/CSV data ingestion, validation, transformation, and export
+- 📊 Experienced in data cleaning, analysis, and feature preparation using Pandas & NumPy
+- 🗄️ Hands-on experience with PostgreSQL and MongoDB, including query optimization and schema design
+- 🧩 Completed a Python Developer Internship focused on API development, ETL automation, data validation, and reporting
+- 🤝 Comfortable working in Agile/Scrum environments, participating in code reviews and collaborative development
+- 🚀 Highly motivated to continuously learn, improve system performance, and contribute to impactful backend and data projects
+
 
 📫 **How to reach me**  
 - LinkedIn: https://www.linkedin.com/in/ritik-sharma-6638791a6  
