@@ -125,17 +125,17 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=iRitikSharma&show_icons=true&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iRitikSharma&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRitikSharma&layout=compact&theme=tokyonight"/>
-</p>
+</p> -->
 
 ---
 
