@@ -123,14 +123,6 @@
 
 ---
 
-# ⭐ Featured Projects
-
-🔹 AI Resume Intelligence Agent  
-🔹 Django ETL Budget Processing API  
-🔹 Python Voice Assistant  
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
